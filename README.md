@@ -1,7 +1,7 @@
 <h1>Secret number game</h1>
 
 <h2>About</h2>
-<p>Projeto used to learn programming logic in Alura courses</p>
+<p>Project used to learn programming logic in Alura courses</p>
 
 ## Technologies
 <div>
